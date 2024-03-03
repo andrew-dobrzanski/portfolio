@@ -1,2 +1,2 @@
 # Portfolio Site
-Personal/Portfolio site built using HMTL5, CSS3, JavaScript, and Bootstrap
+Personal/Portfolio site built using HTML5, CSS3, JavaScript, and Bootstrap
